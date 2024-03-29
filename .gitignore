@@ -1,0 +1,10 @@
+# IntelliJ IDEA
+.idea/
+
+# VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# JupyterLab
+.ipynb_checkpoints/
